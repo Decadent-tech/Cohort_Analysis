@@ -77,12 +77,12 @@ python main.py
 #  Sample Outputs
 #  User Trend Over Time
 
- ![User Trend](https://github.com/Decadent-tech/Cohort_Analysis/blob/main/Cohort_trends/user_trend.png?raw=true)
+ ![User Trend](https://github.com/Decadent-tech/Cohort_Analysis/blob/master/Cohort_trends/user_trend.png)
 
 
 # Weekly Duration Trends
 
-![Weekly Duration](https://github.com/Decadent-tech/Cohort_Analysis/blob/main/Cohort_trends/weekly_duration_trend.png?raw=true)
+![Weekly Duration](https://github.com/Decadent-tech/Cohort_Analysis/blob/master/Cohort_trends/weekly_duration_trend.png)
 
 # Cohort Matrix of Weekly Averages
         
