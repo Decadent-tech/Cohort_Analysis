@@ -82,11 +82,11 @@ python main.py
 
 # Weekly Duration Trends
 
-    ![Weekly Duration](https://github.com/Decadent-tech/Cohort_Analysis/blob/main/Cohort_trends/weekly_duration_trend.png?raw=true)
+![Weekly Duration](https://github.com/Decadent-tech/Cohort_Analysis/blob/main/Cohort_trends/weekly_duration_trend.png?raw=true)
 
 # Cohort Matrix of Weekly Averages
         
-    ![Cohort Matrix](https://github.com/Decadent-tech/Cohort_Analysis/blob/main/Cohort_trends/cohort_matrix_weekly_averages.png?raw=true)
+![Cohort Matrix](https://github.com/Decadent-tech/Cohort_Analysis/blob/main/Cohort_trends/cohort_matrix_weekly_averages.png?raw=true)
 
 #  Notes
     Ensure that the Date column in cohorts.csv is properly formatted (YYYY-MM-DD).
