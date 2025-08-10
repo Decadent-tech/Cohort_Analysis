@@ -77,7 +77,8 @@ python main.py
 #  Sample Outputs
 #  User Trend Over Time
 
-    ![User Trend](https://github.com/Decadent-tech/Cohort_Analysis/blob/main/Cohort_trends/user_trend.png?raw=true)
+ ![User Trend](https://github.com/Decadent-tech/Cohort_Analysis/blob/main/Cohort_trends/user_trend.png?raw=true)
+
 
 # Weekly Duration Trends
 
