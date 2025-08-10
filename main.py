@@ -139,7 +139,6 @@ plt.figure(figsize=(12, 8))
 sns.heatmap(cohort_matrix, annot=True, cmap='coolwarm', fmt=".1f")
 plt.title('Cohort Matrix of Weekly Averages')
 plt.ylabel('Week of the Year')
-plt.show()
 plt.savefig('Cohort_trends/cohort_matrix_weekly_averages.png')
 
 #  number of new users and returning users fluctuates from week to week. 
