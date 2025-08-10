@@ -82,7 +82,7 @@ python main.py
 
 # Weekly Duration Trends
 
-![Weekly Duration](https://github.com/Decadent-tech/Cohort_Analysis/blob/main/Cohort_trends/weekly_duration_trend.png?raw=true)
+![Weekly Duration](https://github.com/Decadent-tech/Cohort_Analysis/blob/master/Cohort_trends/weekly_duration_trend.png)
 
 # Cohort Matrix of Weekly Averages
         
